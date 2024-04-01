@@ -1,13 +1,4 @@
 4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-10OBPUP-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineInte
  4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-JTV3ACD-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-94-Stepping-3-GenuineIntel
-8-physical-16-logical-unameresultsystem=Windows-node=DESKTOP-Q6QUP1E-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-45-Stepping-7-GenuineIntel
-4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-3QUJVS2-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9-GenuineIntel
-4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-71HFBI6-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9-GenuineIntel
-8-physical-16-logical-unameresultsystem=Windows-node=DESKTOP-5BAGRSI-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-45-Stepping-7-GenuineIntel
-4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-FFPMOGL-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
-4-physical-4-logical-unameresultsystem=Windows-node=Admin-release=10-version=10.0.17134-machine=AMD64Windows-10-10.0.17134-SP0AMD64Intel64-Family-6-Model-45-Stepping-7-GenuineIntel
-4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-QBDE7PT-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
-4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-KCS01NA-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-45-Stepping-7-GenuineIntel
-4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-HQFEBSJ-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
 4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-10OBPUP-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
 4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-E0JS3JV-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
